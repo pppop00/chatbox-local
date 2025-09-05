@@ -1,0 +1,13 @@
+# Local AI Chatbox Dependencies
+# Zero API costs - completely local processing
+
+# Core dependencies
+ollama>=0.1.7             # Local AI model interface (FREE)
+gradio>=4.0.0             # Web-based chat interface
+
+# Note: Ollama must be installed separately
+# Visit https://ollama.ai for installation instructions
+# Required model: ollama pull llama3.2
+#
+# Total ongoing cost: $0
+# Setup time: ~5 minutes
