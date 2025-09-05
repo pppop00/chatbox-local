@@ -2,7 +2,7 @@
 
 > **Private AI Chat Interface with Streaming Responses**
 
-## 介绍 (Introduction)
+## Introduction
 
 This is a local AI chatbot with a web-based interface that provides real-time streaming responses. The system uses Ollama for local AI processing and Gradio for an intuitive chat interface, ensuring complete privacy and zero ongoing costs.
 
